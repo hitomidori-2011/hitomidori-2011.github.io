@@ -1,0 +1,16 @@
+{
+  "id": "./",
+  "name": "人と緑の手づくり工房",
+  "short_name": "人と緑",
+  "description": "記録メディアの再資源化を通じて、環境と福祉をつなぐ活動紹介。",
+  "lang": "ja",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f6f5ee",
+  "theme_color": "#244a3b",
+  "icons": [
+    {"src": "./icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any"},
+    {"src": "./icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable"}
+  ]
+}
